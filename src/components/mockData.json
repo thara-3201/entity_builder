@@ -1,0 +1,137 @@
+[
+    {
+        "name": "Finacials",
+        "fields": [
+            {
+                "fname": "field_001",
+                "type": "string",
+                "included": true,
+                "mandatory": false
+            },
+            {
+                "fname": "field_002",
+                "type": "string",
+                "included": true,
+                "mandatory": true
+            },
+            {
+                "fname": "field_003",
+                "type": "number",
+                "included": true,
+                "mandatory": true
+            },
+            {
+                "fname": "field_004",
+                "type": "number",
+                "included": true,
+                "mandatory": false
+            },
+            {
+                "fname": "field_005",
+                "type": "list",
+                "included": true,
+                "mandatory": false
+            }
+        ]
+    },
+    {
+        "name": "Finacials",
+        "fields": [
+            {
+                "fname": "field_001",
+                "type": "string",
+                "included": true,
+                "mandatory": false
+            },
+            {
+                "fname": "field_002",
+                "type": "string",
+                "included": true,
+                "mandatory": true
+            },
+            {
+                "fname": "field_003",
+                "type": "number",
+                "included": true,
+                "mandatory": true
+            },
+            {
+                "fname": "field_004",
+                "type": "number",
+                "included": true,
+                "mandatory": false
+            },
+            {
+                "fname": "field_005",
+                "type": "list",
+                "included": true,
+                "mandatory": false
+            }
+        ]
+    },
+    {
+        "name": "Site",
+        "fields": [
+            {
+                "fname": "field_001",
+                "type": "string",
+                "included": true,
+                "mandatory": false
+            },
+            {
+                "fname": "field_002",
+                "type": "string",
+                "included": true,
+                "mandatory": true
+            },
+            {
+                "fname": "field_003",
+                "type": "number",
+                "included": true,
+                "mandatory": true
+            },
+            {
+                "fname": "field_004",
+                "type": "number",
+                "included": true,
+                "mandatory": false
+            },
+            {
+                "fname": "field_005",
+                "type": "list",
+                "included": true,
+                "mandatory": false
+            },
+            {
+                "fname": "field_006",
+                "type": "list",
+                "included": true,
+                "mandatory": false
+            },
+            {
+                "fname": "field_007",
+                "type": "list",
+                "included": true,
+                "mandatory": false
+            },
+            {
+                "fname": "field_008",
+                "type": "list",
+                "included": true,
+                "mandatory": false
+            },
+            {
+                "fname": "field_009",
+                "type": "list",
+                "included": true,
+                "mandatory": false
+            },
+            {
+                "fname": "field_010",
+                "type": "list",
+                "included": true,
+                "mandatory": false
+            }
+        ]
+    }
+]
